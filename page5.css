@@ -1,0 +1,36 @@
+ #title {
+    color: red;
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 20px;}
+
+ #header
+ {
+ display: flex;
+    align-items: center;
+    gap: 2px;
+    padding: 10px;}
+
+    
+
+    #img1 {
+    width: 900px;
+    height: 500px;
+    display: flex;
+    object-fit: cover;}
+
+
+    #bottom-row{ 
+        display: flex;
+        gap: 10px;
+        flex-direction: row;
+    }
+
+ 
+
+    #img4 {
+    width: 440px;
+    height: 250px;
+    
+    }

@@ -1,0 +1,16 @@
+#contact {
+    margin: 10px 0;
+    font-size: 14px;
+}
+
+#contact a {
+    color: #9dcae2;       /* LinkedIn blue */
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+body {
+    
+    background-color: rgb(203, 192, 192);

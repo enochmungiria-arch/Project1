@@ -1,0 +1,22 @@
+#main {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.language {
+text-align: center;
+margin-top: 10px;
+font-size: 12px;
+color: rgb(35, 50, 50);
+}
+.language a{
+color: #1a0dab;
+text-decoration: none;
+}
+.language a:hover { text-decoration: underline;
+
+
+}
+
+
